@@ -1,24 +1,8 @@
-## Hi there 👋
-
-<!--
-**sandyrezk/sandyrezk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# مرحباً، أنا [ساندي] 👋 | Hi, I'm [Sandy] 👋
+# مرحباً، أنا ساندي 👋 | Hi, I'm Sandy 👋
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React;Building+real+things+that+actually+work+%F0%9F%9A%80;Always+learning%2C+never+stopping+%F0%9F%94%A5)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React;From+Database+to+UI+%E2%80%94+I+build+it+all;Always+learning%2C+never+stopping+%F0%9F%94%A5)
 
 </div>
 
@@ -30,31 +14,36 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 عني
 
- Full-Stack Development.
+خريجة علوم الحاسب والذكاء الاصطناعي، بشغف حقيقي بالـ Full-Stack Development.
 
 مش بس بكتب كود — بفكر في المشاكل وبحاول أحلها بأبسط طريقة ممكنة وأنظف كود.
 
 بدأت رحلتي في البرمجة وماوقفتش — كل مشروع بعلمني حاجة جديدة وبخليني أتحدى نفسي أكتر.
 
+بشتغل على المشاريع من أول ما بتكون فكرة لحد ما بتتنزل على السيرفر — backend وfrontend مع بعض.
+
 **دلوقتي بركز على:**
 - 🔨 بناء مشاريع real-world كاملة
 - 📚 تعميق فهمي لـ system design
+- 🚀 تطوير مشاريع تستاهل تتحكي عنها
 
 </td>
 <td width="50%" valign="top">
 
 ## 👩‍💻 About Me
 
- graduate from computer science and Artificial Intelligence with a genuine passion for building things on the web — from the database all the way to the UI.
+CS & AI graduate with a genuine passion for building things on the web — from the database all the way to the UI.
 
 I don't just write code. I think about *why* the code exists, who's going to use it, and how to make it work well under pressure.
+
+I work across the full stack — designing APIs, structuring databases, and building interfaces that actually make sense to use.
 
 Every project I build teaches me something I didn't know the day before — and that's exactly what keeps me going.
 
 **Currently focused on:**
-- 🔨 Building complete, real-world projects
-- 📚 Going deeper into system design
-- 🤝 Landing my first role that's worth my energy
+- 🔨 Building complete, production-ready projects
+- 📚 Going deeper into system design & architecture
+- 🤝 Landing a role where I can grow fast and contribute faster
 
 </td>
 </tr>
@@ -100,9 +89,54 @@ Every project I build teaches me something I didn't know the day before — and 
 
 ---
 
+## 🚀 Featured Project — ChatWave 🌊
+
+> تطبيق شات real-time كامل — من الـ backend للـ frontend
+
+| | |
+|---|---|
+| ⚡ **Real-time** | Socket.io — zero delay messaging |
+| 🔒 **Encrypted** | AES-256-CBC end-to-end encryption |
+| 👥 **Groups** | One-to-One & Group chats |
+| 📎 **Files** | Image & file sharing |
+| 🟢 **Presence** | Live online status & typing indicators |
+| 🔐 **Auth** | JWT + bcrypt authentication |
+
+**Stack:** `Node.js` `Express` `MongoDB` `Socket.io` `HTML/CSS/JS`
+
+🔗 **[View Project →](https://github.com/sandyrezk/chatwave)**
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6c63ff&style=flat-square&label=Profile+Views)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandyrezk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyrezk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sandyrezk&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=ff6584&currStreakLabel=6c63ff)
+
+</div>
+
+---
+
+## 🤝 تواصلي معايا | Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandyrezk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandyrezk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sandyrezk&color=6c63ff&style=flat-square&label=Profile+Views)
 
 *"أنا مش بدور على وظيفة — بدور على مكان أأثر فيه."*
 
