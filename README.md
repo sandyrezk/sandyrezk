@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# مرحباً، أنا [اسمك] 👋 | Hi, I'm [Your Name] 👋
+# مرحباً، أنا [ساندي] 👋 | Hi, I'm [Sandy] 👋
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 عني
 
-خريجة جديدة بشغف حقيقي بالـ Full-Stack Development.
+ Full-Stack Development.
 
 مش بس بكتب كود — بفكر في المشاكل وبحاول أحلها بأبسط طريقة ممكنة وأنظف كود.
 
@@ -39,14 +39,13 @@ Here are some ideas to get you started:
 **دلوقتي بركز على:**
 - 🔨 بناء مشاريع real-world كاملة
 - 📚 تعميق فهمي لـ system design
-- 🤝 البحث عن أول فرصة عمل تستاهل
 
 </td>
 <td width="50%" valign="top">
 
 ## 👩‍💻 About Me
 
-A fresh graduate with a genuine passion for building things on the web — from the database all the way to the UI.
+ graduate from computer science and Artificial Intelligence with a genuine passion for building things on the web — from the database all the way to the UI.
 
 I don't just write code. I think about *why* the code exists, who's going to use it, and how to make it work well under pressure.
 
@@ -101,24 +100,6 @@ Every project I build teaches me something I didn't know the day before — and 
 
 ---
 
-## 🚀 Featured Project — ChatWave 🌊
-
-> تطبيق شات real-time كامل — من الـ backend للـ frontend
-
-| | |
-|---|---|
-| ⚡ **Real-time** | Socket.io — zero delay messaging |
-| 🔒 **Encrypted** | AES-256-CBC end-to-end encryption |
-| 👥 **Groups** | One-to-One & Group chats |
-| 📎 **Files** | Image & file sharing |
-| 🟢 **Presence** | Live online status & typing indicators |
-| 🔐 **Auth** | JWT + bcrypt authentication |
-
-**Stack:** `Node.js` `Express` `MongoDB` `Socket.io` `HTML/CSS/JS`
-
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/chatwave)**
-
----
 
 ## 📊 GitHub Stats
 
@@ -136,15 +117,7 @@ Every project I build teaches me something I didn't know the day before — and 
 
 ## 🤝 تواصلي معايا | Let's Connect
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
 
 <div align="center">
 
