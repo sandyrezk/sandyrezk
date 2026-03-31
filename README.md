@@ -106,15 +106,7 @@ Every project I build teaches me something I didn't know the day before — and 
 </div>
 
 
----
 
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sandyrezk&color=6c63ff&style=flat-square&label=Profile+Views)
-
-*"أنا مش بدور على وظيفة — بدور على مكان أأثر فيه."*
-
-*"I'm not just looking for a job — I'm looking for a place where I can actually make a difference."* ✨
 
 </div>
 
