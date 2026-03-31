@@ -105,38 +105,6 @@ Every project I build teaches me something I didn't know the day before — and 
 
 </div>
 
----
-
-## 🚀 Featured Project — ChatWave 🌊
-
-> تطبيق شات real-time كامل — من الـ backend للـ frontend
-
-| | |
-|---|---|
-| ⚡ **Real-time** | Socket.io — zero delay messaging |
-| 🔒 **Encrypted** | AES-256-CBC end-to-end encryption |
-| 👥 **Groups** | One-to-One & Group chats |
-| 📎 **Files** | Image & file sharing |
-| 🟢 **Presence** | Live online status & typing indicators |
-| 🔐 **Auth** | JWT + bcrypt authentication |
-
-**Stack:** `Node.js` `Express` `MongoDB` `Socket.io` `HTML/CSS/JS`
-
-🔗 **[View Project →](https://github.com/sandyrezk/chatwave)**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandyrezk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyrezk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sandyrezk&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=ff6584&currStreakLabel=6c63ff)
-
-</div>
 
 ---
 
